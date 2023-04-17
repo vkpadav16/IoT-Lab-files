@@ -1,5 +1,4 @@
-
-# Date = 09-01
+#Date = 9/1/23
 
 a = int(input("Enter the first number: "))
 b = int(input("Enter the secound number: "))
